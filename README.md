@@ -6,7 +6,7 @@ governing body of Software-Enabled Flash (SEF).  It is described in the
 
 ## TSC Meeting Notes
 
-Notes and presentations from meetings of the TSC are stored in [meetings].
+Notes and presentations from meetings of the TSC are stored in [meetings](https://github.com/SoftwareEnabledFlash/TSC/tree/main/meetings).
 
 ## Additional Resources
 
