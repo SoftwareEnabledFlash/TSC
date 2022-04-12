@@ -11,4 +11,5 @@ Notes and presentations from meetings of the TSC are stored in [meetings](https:
 ## Additional Resources
 
 * [SEF website](https://softwareenabledflash.org)
+* [SEF-DEV mailing list](https://lists.softwareenabledflash.org/g/sef-dev/join)
 * [SEF YouTube channel](https://www.youtube.com/channel/UCF9L-AlZw1lawXNQc5pvhCA)
